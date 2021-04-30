@@ -1,10 +1,12 @@
 ## Sobre
 ```
- API para gerar e chamar senhas-em conjunto com front-end comporá um sistema para gestão de atendimento a clientes com opção de senha preferencial com chamada prioritária.
+ Sistema para gestão de senhas.
+ Contem uma API para gerar e chamar senhas- em conjunto com front-end comporá um  
+ sistema para controle de atendimento a clientes com opção de senha preferencial   com chamada prioritária.
 ```
 ## Status
 ```
- Back-end : em andamento.
+ Back-end : API em andamento.
  Front-end: a desenvolver.
 ```
 
