@@ -14,7 +14,7 @@ import java.util.List;
 public class SenhaController {
 
     @Autowired
-    private SenhaController senhaService;
+    private SenhaService senhaService;
 
     @PostMapping("/nova/Senha/Normal")
     public String novaSenha(){

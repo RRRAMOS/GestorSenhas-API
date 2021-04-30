@@ -11,10 +11,10 @@
 ## Tecnologias adotadas
 ```
 -Java
--SpringBoot
--Rest 
--Maven
--Tomcat
+-SpringBoot - criação API Restfull e microsserviços
+-Spring Data JPA - persistência de dados
+-Maven - gestão de dependências, build automatizado,   execução testes
+-Tomcat- servlet Java
 
 ```
 
