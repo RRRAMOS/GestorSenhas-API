@@ -5,6 +5,10 @@
  sistema para controle de atendimento a clientes com opção de senha preferencial,
  de chamada prioritária.
 ```
+
+## Arquitetura
+<p align="center">  <img src="./arquiteturaDoSistema.png"></p
+
 ## Status
 ```
  Back-end : API em andamento.
