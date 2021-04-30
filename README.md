@@ -7,7 +7,7 @@
 ```
 
 ## Arquitetura
-<p align="center">  <img src="./arquiteturaDoSistema.png"></p>
+<p align="center">  <img src="./arquiteturaDoSistema.PNG"></p>
 
 ## Status
 ```
