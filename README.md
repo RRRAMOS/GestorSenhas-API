@@ -32,7 +32,5 @@
 -Angular - programação client-side
 ```
 
-## Agradecimentos
-- [Paripassu Tecnologia](https://www.paripassu.com.br)
 
 
