@@ -11,7 +11,7 @@
 
 ## Status
 ```
- Back-end : API em andamento.
+ Back-end : API 
  Front-end: a desenvolver.
 ```
 
